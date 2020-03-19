@@ -1,5 +1,5 @@
 Full Name: Ntesat J. Ezekiel 
-email address: ntesat@gmail.com 
-slack username: ntesat 
+Email Address: ntesat@gmail.com 
+Slack Username: ntesat 
 HNG Tracks: Frontend, Mobile
 Courses: HTML, CSS, JavaScript, Kotlin
